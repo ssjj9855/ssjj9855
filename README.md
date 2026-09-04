@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm ssjj9855!
+# 👋 Hi there, I'm Eric!
 
 Welcome to my GitHub! I'm a tech enthusiast who has just started my journey in the digital world. I might be a beginner right now, but I'm excited to explore, learn, and grow step by step. 🚀
 
