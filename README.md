@@ -1,18 +1,27 @@
-# 👋 Hi there, I'm Eric!
+### Tech Stack & Tools
 
-Welcome to my GitHub! I'm a tech enthusiast who has just started my journey in the digital world. I might be a beginner right now, but I'm excited to explore, learn, and grow step by step. 🚀
+**Languages & Web**
 
-### 🌟 About Me
+`HTML` `CSS` `JavaScript` `Astro` `Tailwind CSS` `Vite` `Pagefind`
 
-* 🌱 **Currently learning:** Improving my English and diving deeper into the world of AI.
-* 🎨 **Exploring:** I find AI tools fascinating, especially experimenting with AI image generation and processing.
-* 🤝 **Looking to:** Connect with other tech beginners, find study buddies, or learn from experienced developers. 
-* 📫 **How to reach me:** [t.me/ssjj9855](https://t.me/ssjj9855)
+**AI & Development**
 
-### 📈 Profile Views
+`Codex` `GitHub` `Node.js` `PowerShell` `VS Code`
 
-<!-- 这是一个访问量统计小牌子，只要有人看你的主页，数字就会自动增加 -->
-![Profile Views](https://komarev.com/ghpvc/?username=ssjj9855&color=blue&style=flat-square&label=PROFILE+VIEWS)
+**Deployment & Infrastructure**
+
+`ECS` `Linux` `Nginx` `SSH` `DNS` `Cloudflare`
+
+### Currently Exploring
+
+- 🌐 Personal websites & web development
+- 🤖 AI tools & AI-assisted coding
+- 🖥️ Linux, server deployment & self-hosting
+- 📱 WeChat Mini Programs & NAS
+
+### 🐍 Contributions
+
+![Snake animation](https://raw.githubusercontent.com/ssjj9855/ssjj9855/output/github-contribution-grid-snake.svg)
 
 ---
 *“A little progress each day adds up to big results.”*
